@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name headers)(type KiCad)(uri ${KIPRJMOD}/footprints/headers.pretty)(options "")(descr ""))
+  (lib (name vishay)(type KiCad)(uri ${KIPRJMOD}/footprints/vishay.pretty)(options "")(descr ""))
+  (lib (name graphics)(type KiCad)(uri ${KIPRJMOD}/footprints/graphics.pretty)(options "")(descr ""))
+)

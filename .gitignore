@@ -1,0 +1,8 @@
+# ignore footprint caches
+fp-info-cache
+
+# ignore project backups
+*.pro-bak
+
+# ignore library caches
+*-cache.lib
